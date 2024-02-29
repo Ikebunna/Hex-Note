@@ -1,0 +1,8 @@
+.brand {
+  text-decoration: none;
+  color: white;
+}
+.brand:hover {
+  text-decoration: underline;
+  color: white;
+}
