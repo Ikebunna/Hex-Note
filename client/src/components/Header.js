@@ -30,7 +30,7 @@ function Header({ setSearch }) {
       <Container>
         <Navbar.Brand>
           <Link className="brand" to={"/"}>
-            Note Clasp
+            Hex Note
           </Link>
         </Navbar.Brand>
 
