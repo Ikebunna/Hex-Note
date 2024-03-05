@@ -13,12 +13,12 @@
   min-height: 93vh;
   display: flex;
   align-items: center;
-  background-image: url("../../background1.jpg");
+  background-image: url("../../istockphoto-509720330-612x612.jpg");
   background-position: center;
   background-size: cover;
-  background-blend-mode: exclusion;
+  /* background-blend-mode: exclusion; */
   opacity: 34;
-  background-color: darkslategray;
+  background-color: rgb(255, 255, 255);
 }
 .buttonContainer {
   margin-top: 50px;
